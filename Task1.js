@@ -6,9 +6,9 @@ console.log(a);
 
 
 //section 2: Variable Math
-let marks=80;
-marks=marks+10;
-console.log(marks);
+let mark=80;
+mark=mark+10;
+console.log(mark);
 //90
 
 
